@@ -1,1 +1,1 @@
-
+These are the input black and white images that we will use for the image colorization process,edit the image name in the ipynb file to generate the output image for the given input image file.
